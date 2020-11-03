@@ -18,12 +18,12 @@
   "homepage": "https://github.com/healzer/DiscordEarsBot#readme",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.3.3",
     "@google-cloud/speech": "^4.1.3",
-    "discord.js": "^12.3.1",
+    "discord.js": "^12.4.1",
     "node-witai-speech": "^1.0.2",
     "request": "^2.88.2",
-    "sox-audio": "git://github.com/healzer/sox-audio.git",
+    "sox-audio": "sox-audio/",
     "underscore": "^1.11.0"
   }
 }
